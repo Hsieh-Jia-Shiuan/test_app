@@ -1,7 +1,7 @@
 # Hello world, I love RoR!!
 
-***reby
+```reby
 puts "Hello world!"
-***
+```
 
 This is my first Markdown!
