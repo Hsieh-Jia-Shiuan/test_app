@@ -1,6 +1,6 @@
 # Hello world, I love RoR!!
 
-```reby
+```ruby
 puts "Hello world!"
 ```
 
